@@ -3,7 +3,7 @@
   {description, "ACC Account Management"},
   {vsn, "0.6.0"},
   {registered, []},
-  {applications, [kernel,stdlib,kvs]},
+  {applications, [kernel,stdlib]},
   {mod, { acc, []}},
   {env, []}
  ]}.
