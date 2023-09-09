@@ -18,7 +18,7 @@ defmodule ACC.Mixfile do
       licenses: ["ISC"],
       maintainers: ["Namdak Tonpa"],
       name: :acc,
-      links: %{"GitHub" => "https://github.com/enterprizing/acc"}
+      links: %{"GitHub" => "https://github.com/erpuno/acc"}
     ]
   end
 
