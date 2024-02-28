@@ -28,7 +28,8 @@ defmodule ACC.Mixfile do
 
   def deps() do
     [
-      {:ex_doc, "~> 0.11", only: :dev}
+      {:ex_doc, "~> 0.11", only: :dev},
+      {:bpe, "7.10.4"}
     ]
   end
 end
